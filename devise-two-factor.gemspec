@@ -22,6 +22,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'railties',       '~> 7.0'
   s.add_runtime_dependency 'activesupport',  '~> 7.0'
+  s.add_runtime_dependency 'attr_encrypted', '~> 4.0'
   s.add_runtime_dependency 'devise',         '~> 4.0'
   s.add_runtime_dependency 'rotp',           '~> 6.0'
 
